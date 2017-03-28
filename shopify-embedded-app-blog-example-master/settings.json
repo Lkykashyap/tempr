@@ -1,0 +1,9 @@
+{
+	"oauth": {
+		"api_key": "3f65ac6bcc5e4bb064776dc47b464c8f",
+		"client_secret": "326d1ba3916b9c719a848c9a9999fa5c",
+		"redirect_uri": "https://testingrimps123.herokuapp.com/access_token",
+		"scope": "read_themes,write_themes,write_customers,read_script_tags,write_script_tags,read_products,write_products"
+	},
+	"app_url": "//testingrimps123.herokuapp.com/"
+}
